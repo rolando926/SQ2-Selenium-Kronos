@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kronos.iml" filepath="$PROJECT_DIR$/.idea/modules/kronos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kronos_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kronos_main.iml" group="kronos" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kronos_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kronos_test.iml" group="kronos" />
+    </modules>
+  </component>
+</project>
